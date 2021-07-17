@@ -1,0 +1,4 @@
+github.com/goh-chunlin/go-onedrive/onedrive v0.0.0-20201229161802-ea6494991717 h1:1/lnBmzPYWXRzvaltkFmyvSQl1Tgrjp/nsY0bBd4ojc=
+github.com/goh-chunlin/go-onedrive/onedrive v0.0.0-20201229161802-ea6494991717/go.mod h1:JajaRcWdIDzrc65PNHztAANyZNph9nRDBPUFOwVZ44s=
+github.com/h2non/filetype v1.1.0 h1:Or/gjocJrJRNK/Cri/TDEKFjAR+cfG6eK65NGYB6gBA=
+github.com/h2non/filetype v1.1.0/go.mod h1:319b3zT68BvV+WRj7cwy856M2ehB3HqNOt6sy1HndBY=
